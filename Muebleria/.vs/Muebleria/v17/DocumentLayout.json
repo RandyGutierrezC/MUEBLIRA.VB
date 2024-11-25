@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\",
+  "WorkspaceRootPath": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|c:\\users\\randy\\downloads\\proyecto\\proyecto\\muebleria\\muebleria\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|c:\\users\\uriel\\onedrive\\escritorio\\muebleriaproyecto\\mueblira.vb\\muebleria\\muebleria\\rptmuebleria.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\rptmuebleria.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|c:\\users\\randy\\downloads\\proyecto\\proyecto\\muebleria\\muebleria\\clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\muebleria\\reportecliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\reportecliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|c:\\users\\uriel\\onedrive\\escritorio\\muebleriaproyecto\\mueblira.vb\\muebleria\\muebleria\\acercade.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\acercade.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\muebleria\\clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|c:\\users\\randy\\downloads\\proyecto\\proyecto\\muebleria\\muebleria\\informedecliente.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
-      "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\informedecliente.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|c:\\users\\uriel\\onedrive\\escritorio\\muebleriaproyecto\\mueblira.vb\\muebleria\\muebleria\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|c:\\users\\randy\\downloads\\proyecto\\proyecto\\muebleria\\muebleria\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\muebleria\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|c:\\users\\randy\\downloads\\proyecto\\proyecto\\muebleria\\muebleria\\reportecliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\reportecliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,44 +34,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Acercade.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\Acercade.rdlc",
+              "RelativeDocumentMoniker": "Muebleria\\Acercade.rdlc",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\Acercade.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "Muebleria\\Acercade.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-25T23:35:09.111Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\Form1.vb",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\Form1.vb",
               "RelativeDocumentMoniker": "Muebleria\\Form1.vb",
-              "ToolTip": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\Form1.vb",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\Form1.vb",
               "RelativeToolTip": "Muebleria\\Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-25T23:13:31.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form1.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\Form1.vb",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\Form1.vb",
               "RelativeDocumentMoniker": "Muebleria\\Form1.vb",
               "ToolTip": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\Form1.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Muebleria\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\Form1.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-25T23:13:24.827Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-25T23:13:24.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ReporteCliente.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\ReporteCliente.vb",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\ReporteCliente.vb",
               "RelativeDocumentMoniker": "Muebleria\\ReporteCliente.vb",
-              "ToolTip": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\ReporteCliente.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\ReporteCliente.vb [Dise\u00F1o]",
               "RelativeToolTip": "Muebleria\\ReporteCliente.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-25T23:10:48.059Z",
@@ -75,23 +90,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InformeDeCliente.rdlc [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\InformeDeCliente.rdlc",
-              "RelativeDocumentMoniker": "Muebleria\\InformeDeCliente.rdlc",
-              "ToolTip": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\InformeDeCliente.rdlc [Dise\u00F1o]",
-              "RelativeToolTip": "Muebleria\\InformeDeCliente.rdlc [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "rptmuebleria.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\rptmuebleria.rdlc",
+              "RelativeDocumentMoniker": "Muebleria\\rptmuebleria.rdlc",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\rptmuebleria.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "Muebleria\\rptmuebleria.rdlc [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
               "WhenOpened": "2024-11-25T23:10:15.335Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Clientes.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\Clientes.vb",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\Clientes.vb",
               "RelativeDocumentMoniker": "Muebleria\\Clientes.vb",
-              "ToolTip": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\Clientes.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\Clientes.vb [Dise\u00F1o]",
               "RelativeToolTip": "Muebleria\\Clientes.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-25T23:03:13.934Z",
