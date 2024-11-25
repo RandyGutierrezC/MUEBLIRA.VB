@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\reportecliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|c:\\users\\uriel\\onedrive\\escritorio\\muebleriaproyecto\\mueblira.vb\\muebleria\\muebleria\\acercade.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\muebleria\\acercade.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
       "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\acercade.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|c:\\users\\uriel\\onedrive\\escritorio\\muebleriaproyecto\\mueblira.vb\\muebleria\\muebleria\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\muebleria\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{018974B0-6BDF-4D64-B40E-8BEA846626F7}|Muebleria\\Muebleria.vbproj|solutionrelative:muebleria\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -71,10 +71,11 @@
               "Title": "Form1.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\Form1.vb",
               "RelativeDocumentMoniker": "Muebleria\\Form1.vb",
-              "ToolTip": "C:\\Users\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\Form1.vb [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\randy\\Downloads\\PROYECTO\\PROYECTO\\Muebleria\\Muebleria\\Form1.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Escritorio\\Muebleriaproyecto\\MUEBLIRA.VB\\Muebleria\\Muebleria\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Muebleria\\Form1.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-25T23:13:24.827Z"
+              "WhenOpened": "2024-11-25T23:13:24.827Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
