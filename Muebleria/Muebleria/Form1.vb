@@ -9,7 +9,7 @@
     End Sub
 
     Private Sub AcercaDeToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AcercaDeToolStripMenuItem.Click
-        ReporteCliente.ShowDialog()
+        AcercaDe.ShowDialog()
     End Sub
 
     Private Sub ProducosToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ProducosToolStripMenuItem.Click

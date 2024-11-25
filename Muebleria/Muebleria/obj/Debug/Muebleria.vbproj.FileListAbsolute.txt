@@ -108,87 +108,88 @@ C:\Users\randy\Downloads\PROYECTO\PROYECTO\Muebleria\Muebleria\bin\Debug\zh-Hans
 C:\Users\randy\Downloads\PROYECTO\PROYECTO\Muebleria\Muebleria\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
 C:\Users\randy\Downloads\PROYECTO\PROYECTO\Muebleria\Muebleria\obj\Debug\Muebleria.ReporteCliente.resources
 C:\Users\randy\Downloads\PROYECTO\PROYECTO\Muebleria\Muebleria\obj\Debug\Muebleria.vbproj.Up2Date
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.vbproj.AssemblyReference.cache
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.Clientes.resources
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.Form1.resources
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.Resources.resources
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.Producto.resources
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.ReporteCliente.resources
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.vbproj.GenerateResource.cache
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.vbproj.CoreCompileInputs.cache
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.exe
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.xml
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.pdb
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\x86\SqlServerSpatial160.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\x64\SqlServerSpatial160.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Muebleria.exe.config
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Muebleria.exe
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Muebleria.pdb
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Muebleria.xml
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.ReportViewer.Common.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.ReportViewer.Design.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.SqlServer.Types.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\EnvDTE.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\stdole.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
-C:\Users\uriel\OneDrive\Escritorio\Muebleriaproyecto\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.vbproj.Up2Date
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.vbproj.AssemblyReference.cache
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.AcercaDe.resources
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.Clientes.resources
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.Form1.resources
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.Resources.resources
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.Producto.resources
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.ReporteCliente.resources
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.vbproj.GenerateResource.cache
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.vbproj.CoreCompileInputs.cache
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.exe
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.xml
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.pdb
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Muebleria.exe.config
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Muebleria.exe
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Muebleria.pdb
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Muebleria.xml
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\EnvDTE.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\stdole.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\randy\OneDrive - Universidad de Sonsonate\Escritorio\MUEBLERIA\MUEBLIRA.VB\Muebleria\Muebleria\obj\Debug\Muebleria.vbproj.Up2Date
